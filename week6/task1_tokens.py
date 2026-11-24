@@ -7,7 +7,7 @@ I can't log in.
 help@example.com
 CS4944 version 2.1
 
-یہ ایک مثال ہے"""
+
 lines = raw.split('\n')
 
 for text in lines:
